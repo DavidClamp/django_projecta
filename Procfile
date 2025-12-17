@@ -1,1 +1,1 @@
-web: gunicorn code-inst-projecta.wsgi
+web: gunicorn my_project.wsgi
